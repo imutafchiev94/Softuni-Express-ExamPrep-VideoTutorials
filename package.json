@@ -1,0 +1,30 @@
+{
+  "name": "Softuni-Express-ExamPrep-VideoTutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imutafchiev94/Softuni-Express-ExamPrep-VideoTutorials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imutafchiev94/Softuni-Express-ExamPrep-VideoTutorials/issues"
+  },
+  "homepage": "https://github.com/imutafchiev94/Softuni-Express-ExamPrep-VideoTutorials#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.7"
+  }
+}
